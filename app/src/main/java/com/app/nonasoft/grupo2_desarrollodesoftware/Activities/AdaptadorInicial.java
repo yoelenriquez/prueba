@@ -20,7 +20,7 @@ public class AdaptadorInicial extends BaseExpandableListAdapter{
             {"Agregar contacto", "Eliminar contacto", "Buscar contacto"},
             {"Agregar tutoriales"},
             {"Agregar tutoriales"},
-            {"Agregar tutoriales"}
+            {"Agregar tutoriales 1"}
     };
 
     public AdaptadorInicial(Context context){
